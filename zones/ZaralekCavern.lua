@@ -504,6 +504,7 @@ local RITUAL = {
 }
 ns.RegisterPoints(ns.ZARALEKCAVERN, {
     [38184991] = {quest=73548, vignette=5528, note="In cave"},
+    [41964717] = {quest=73548, vignette=5528},
     [32634418] = {quest=73551, vignette=5529},
     [30055141] = {quest=73552, vignette=5530}, -- verify quest
     [32015277] = {quest=73552, vignette=5530},
