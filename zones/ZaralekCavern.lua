@@ -505,10 +505,19 @@ local RITUAL = {
 ns.RegisterPoints(ns.ZARALEKCAVERN, {
     [38184991] = {quest=73548, vignette=5528, note="In cave"},
     [41964717] = {quest=73548, vignette=5528},
+    [40005127] = {quest=73548, vignette=5528},
+    [41694458] = {quest=73548, vignette=5528},
+    [41044879] = {quest=73548, vignette=5528},
     [32634418] = {quest=73551, vignette=5529},
+    [33013987] = {quest=73551, vignette=5529},
+    [35324180] = {quest=73551, vignette=5529, note="Inside tower"},
     [30055141] = {quest=73552, vignette=5530}, -- verify quest
     [32015277] = {quest=73552, vignette=5530},
+    [32365040] = {quest=73552, vignette=5530},
+    [28935492] = {quest=73552, vignette=5530},
     [27344217] = {quest=73553, vignette=5531},
+    [28864418] = {quest=73553, vignette=5531},
+    [28604870] = {quest=73553, vignette=5531},
     [28175154] = {quest=73553, vignette=5531}, -- verify quest
 }, RITUAL)
 
