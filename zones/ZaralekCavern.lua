@@ -509,16 +509,19 @@ ns.RegisterPoints(ns.ZARALEKCAVERN, {
     [41694458] = {quest=73548, vignette=5528},
     [41044879] = {quest=73548, vignette=5528},
     [32634418] = {quest=73551, vignette=5529},
+    [30504366] = {quest=73551, vignette=5529},
+    [31883956] = {quest=73551, vignette=5529},
     [33013987] = {quest=73551, vignette=5529},
     [35324180] = {quest=73551, vignette=5529, note="Inside tower"},
-    [30055141] = {quest=73552, vignette=5530}, -- verify quest
+    [30055141] = {quest=73552, vignette=5530},
     [32015277] = {quest=73552, vignette=5530},
     [32365040] = {quest=73552, vignette=5530},
     [28935492] = {quest=73552, vignette=5530},
     [27344217] = {quest=73553, vignette=5531},
+    [28264627] = {quest=73553, vignette=5531},
     [28864418] = {quest=73553, vignette=5531},
     [28604870] = {quest=73553, vignette=5531},
-    [28175154] = {quest=73553, vignette=5531}, -- verify quest
+    [28175154] = {quest=73553, vignette=5531},
 }, RITUAL)
 
 local TRASH = {
